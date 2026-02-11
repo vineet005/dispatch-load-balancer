@@ -11,10 +11,7 @@
 - [Features](#features)
 - [Architecture](#architecture)
 - [API Endpoints](#api-endpoints)
-- [Setup & Installation](#setup--installation)
-- [Running Tests](#running-tests)
 - [Technology Stack](#technology-stack)
-- [License](#license)
 
 ---
 
@@ -78,7 +75,7 @@ Key functionality:
 
 ---
 
-Technology Stack
+## Technology Stack
 
 Language: Java 17
 
